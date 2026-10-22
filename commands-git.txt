@@ -1,0 +1,7 @@
+git clone
+
+3 commandes de push : 
+- git add .
+- git commit -m "Message"
+- git push (-u origin main si c'est le premier push)
+
