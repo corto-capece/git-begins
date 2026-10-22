@@ -8,3 +8,6 @@ git clone
 Commandes pour pull : 
 - git fetch origin (nom de la branche)
 - git pull
+
+Commande pour créer une branche et switcher : 
+- git switch -c (nom de la branche)
