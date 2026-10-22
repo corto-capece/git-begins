@@ -5,3 +5,6 @@ git clone
 - git commit -m "Message"
 - git push (-u origin main si c'est le premier push)
 
+Commandes pour pull : 
+- git fetch origin (nom de la branche)
+- git pull
